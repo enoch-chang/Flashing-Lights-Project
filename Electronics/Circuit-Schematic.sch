@@ -5694,6 +5694,14 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <wire x1="132.08" y1="86.36" x2="132.08" y2="53.34" width="0.1524" layer="91"/>
 <pinref part="JP3" gate="G$1" pin="1"/>
 <wire x1="114.3" y1="53.34" x2="132.08" y2="53.34" width="0.1524" layer="91"/>
+<pinref part="JP5" gate="G$1" pin="1"/>
+<wire x1="76.2" y1="38.1" x2="71.12" y2="38.1" width="0.1524" layer="91"/>
+<wire x1="71.12" y1="38.1" x2="71.12" y2="5.08" width="0.1524" layer="91"/>
+<wire x1="71.12" y1="5.08" x2="101.6" y2="5.08" width="0.1524" layer="91"/>
+<wire x1="101.6" y1="5.08" x2="101.6" y2="-22.86" width="0.1524" layer="91"/>
+<wire x1="101.6" y1="-22.86" x2="27.94" y2="-22.86" width="0.1524" layer="91"/>
+<wire x1="27.94" y1="-22.86" x2="27.94" y2="27.94" width="0.1524" layer="91"/>
+<junction x="27.94" y="27.94"/>
 </segment>
 </net>
 <net name="N$2" class="0">
